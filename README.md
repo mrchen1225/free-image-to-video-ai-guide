@@ -258,6 +258,7 @@ If you want to use this guide for growth or SEO, these are strong follow-up topi
 If you want to test the workflow directly in a browser, start here:
 
 - [Image to Video AI Generator](https://imagetovideoaifree.com/ai-video-generator)
+- [AI Lip Sync](https://cal.com/ai-lip-sync)
 - [Motion Control Tool](https://imagetovideoaifree.com/motion-control)
 
 ## License
